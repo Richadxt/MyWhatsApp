@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "150281696987",
+    "firebase_url": "https://neat-roots-whatsapp-5e1df-default-rtdb.firebaseio.com",
+    "project_id": "neat-roots-whatsapp-5e1df",
+    "storage_bucket": "neat-roots-whatsapp-5e1df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150281696987:android:3b46ea49d7c26222c77efe",
+        "android_client_info": {
+          "package_name": "com.example.personalwhatsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150281696987-v6066o44j46pnoivja8d42h8b9k3c4s7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.personalwhatsapp",
+            "certificate_hash": "bb0cefd148e64375dcae41a5fd2597154442f7ca"
+          }
+        },
+        {
+          "client_id": "150281696987-03svpmkhafqqq9k9bogevpmkq3c4dtqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWyTLZzbLreitsshvhwLtZ2-YXYhiLEtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150281696987-03svpmkhafqqq9k9bogevpmkq3c4dtqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
